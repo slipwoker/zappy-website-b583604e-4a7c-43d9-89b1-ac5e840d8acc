@@ -1,0 +1,57 @@
+# נדלן פלוס — Generative Engine Optimization Map
+
+> A נדל"ן business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-b583604e.zappy5.app
+מחפשים דירות למכירה בגבעתיים? נדלן פלוס מציעה שירותי תיווך מקצועיים עם ניסיון רב שנים. צרו קשר עוד היום!
+
+### השירותים שלנו
+https://-b583604e.zappy5.app/services
+גלו את מגוון השירותים המקצועיים של נדלן פלוס: דירות למכירה בגבעתיים, השכרת דירות ברמת גן, ייעוץ נדל"ן ועוד. שירות אישי ומסור.
+
+### אודות
+https://-b583604e.zappy5.app/about
+הכירו את נדלן פלוס - משרד תיווך נדלן רמת גן מוביל עם ניסיון רב שנים. אנחנו מתמחים בדירות למכירה בגבעתיים והשכרת דירות ברמת גן.
+
+### צור קשר
+https://-b583604e.zappy5.app/contact
+צרו קשר עם נדלן פלוס עוד היום! אנחנו כאן לעזור לכם למצוא דירות למכירה בגבעתיים או השכרת דירות ברמת גן. מלאו טופס או התקשרו אלינו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b583604e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b583604e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b583604e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נדלן פלוס
+נדלן פלוס is a business in the נדל"ן industry.
+
+## Target Audience
+מחפשי דירות ונכסים באזור גבעתיים ורמת גן
+
+## Industry
+נדל"ן
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-b583604e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-b583604e.zappy5.app/robots.txt
